@@ -27,9 +27,9 @@ Users will understand how cube translation works.
 
 
 ## Reference 
-# https://www.tutorialspoint.com/webgl/webgl_interactive_cube.htm 
-# gl-matrix.js
-# some part of (CC-NC-BY) Kim Kwangho 2019
+#### https://www.tutorialspoint.com/webgl/webgl_interactive_cube.htm 
+#### gl-matrix.js
+#### some part of (CC-NC-BY) Kim Kwangho 2019
 
 
 ## Summery
