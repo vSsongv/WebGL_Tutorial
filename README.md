@@ -1,7 +1,7 @@
 # CG Final Project - WebGL Tutorial
 
 
-## CC-NC-BY Song Jinyoung
+# CC-NC-BY Song Jinyoung
 
 
 ##Objects
