@@ -5,9 +5,9 @@
 
 
 ## Objects
-### Primitive Assembly and Texture Mapping
-### I made website that explaing about above topics. User can see what is thoes topic
-### and on experience part, users can experience transport, changing color, rotate cube.
+ Primitive Assembly and Texture Mapping
+ I made website that explaing about above topics. User can see what is thoes topic
+ and on experience part, users can experience transport, changing color, rotate cube.
 
 ### Function
 
