@@ -3,7 +3,7 @@
 
 ## CC-NC-BY Song Jinyoung
 
-##Code
+## Code
 index.html
 prim.html - primitive assembly page
 script1 - rotate cube using primitive assembly 
