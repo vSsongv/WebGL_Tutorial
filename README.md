@@ -22,6 +22,7 @@ exp.html - experiece rotate, change color, move cube.
 ## First Page
 User can Choose 3 categories, 1.Primitive Assembly, 2.Texture Mapping 3.Experience
 If choose one categories, Users enter specific page of choosen topic,
+<img width="589" alt="first" src="https://user-images.githubusercontent.com/55029807/86866741-80a09f80-c10c-11ea-85a6-6fd48106958e.png">
 
 ## 1.Primitive Assembly
 Users will understand what is Primitive Assembly, and can rotate of cube that made by gl.TRIANGES
