@@ -4,12 +4,17 @@
 ## CC-NC-BY Song Jinyoung
 
 ## Code
-index.html
-prim.html - primitive assembly page
-script1 - rotate cube using primitive assembly 
-texture.html - texture mapping page
-script2 - rotate cube that texture mapped
-exp.html - experiece rotate, change color, move cube.
+- index.html
+
+- prim.html - primitive assembly page
+
+- script1 - rotate cube using primitive assembly 
+
+- texture.html - texture mapping page
+
+- script2 - rotate cube that texture mapped
+
+- exp.html - experiece rotate, change color, move cube.
 
 
 ## Objects
